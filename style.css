@@ -1,0 +1,72 @@
+#backindex{
+    background-color: #009900;
+}
+
+#playersteamrole{
+    background-color: #fc03d7;
+}
+
+#players{
+    width: 100px;
+    height: 100px;
+}
+
+.teams{
+    margin: 10px;
+}
+
+.cdlteams{
+    font-size: 30px;
+    color: aqua;
+    font-style:italic;
+}
+
+.notsobig{
+    width: 600px;
+    height: 400px;
+    margin: 0px 20px;
+}
+
+.champwinners{
+    width: 600px;
+    height: 400px;
+}
+
+#mydiv{
+    background-color: white;
+}
+
+h1{
+    background-color: #FFFFFF;
+    margin: 50px;
+    padding: 3px;
+}
+
+.pictures{
+    display:flex;
+    gap: 10px;
+}
+
+.image-container{
+    position:relative;
+    width: 300px;
+}
+
+.image-container img{
+    display:block;
+    width:100%;
+    height:auto;
+}
+
+.caption {
+    position: absolute;
+    bottom: 10px;
+    left: 50%;
+    transform: translateX(-50%);
+    background-color: rgba(0, 0, 0, 0.5);
+    color: white;
+    padding: 5px 10px;
+    border-radius: 5px;
+    font-size: 1em;
+    text-align: center;
+}
